@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anmol Pattnayak
-- 👀 I’m interested in web development and graphics designing
+- 👀 I’m interested in web development and graphic designing
 - 🌱 I’m currently learning Web development
 
 <!---
