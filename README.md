@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/_sirsimon_" target="blank"><img src="https://img.shields.io/twitter/follow/_sirsimon_?logo=twitter&style=for-the-badge" alt="_sirsimon_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sirsimon162.github.io/Portfolio/](https://sirsimon162.github.io/Portfolio/)
-
 - 📫 How to reach me **anmolpattnayak2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
