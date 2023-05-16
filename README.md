@@ -1,12 +1,5 @@
 <h1 align="center">Hii 👋, this is Anmol Pattnayak</h1>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Chinmay-KB&show_icons=true&theme=radical&layout=compact">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-KB&hide=css,html&theme=tokyonight&layout=compact">
-  <img src = "https://github-profile-trophy.vercel.app/?username=Chinmay-KB&theme=onedark">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Chinmay-KB">
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirsimon162&label=Profile%20views&color=0e75b6&style=flat" alt="sirsimon162" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_sirsimon_" target="blank"><img src="https://img.shields.io/twitter/follow/_sirsimon_?logo=twitter&style=for-the-badge" alt="_sirsimon_" /></a> </p>
