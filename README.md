@@ -1,11 +1,12 @@
-<h1 align="left">Hii 👋, this is Anmol Pattnayak</h1>
+![image](https://github.com/SirSimon162/SirSimon162/assets/103681122/0444e167-35da-480f-9a6f-9482431eaac7)<h1 align="left">Hii 👋, this is Anmol Pattnayak</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirsimon162&label=Profile%20views&color=0e75b6&style=flat" alt="sirsimon162" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_sirsimon_" target="blank"><img src="https://img.shields.io/twitter/follow/_sirsimon_?logo=twitter&style=for-the-badge" alt="_sirsimon_" /></a> </p>
 
 <p align="left">
-- 📫 Mail me at: **anmolpattnayak2016@gmail.com**
+- 📫 Mail me at: anmolpattnayak2016@gmail.com
+- 👨‍💻 My Portfolio: https://anmolpattnayak.vercel.app/
 </p>
 
 <h3 align="left">Connect with me:</h3>
