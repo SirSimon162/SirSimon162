@@ -1,4 +1,4 @@
-![image](https://github.com/SirSimon162/SirSimon162/assets/103681122/0444e167-35da-480f-9a6f-9482431eaac7)<h1 align="left">Hii 👋, this is Anmol Pattnayak</h1>
+<h1 align="left">Hii 👋, this is Anmol Pattnayak</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirsimon162&label=Profile%20views&color=0e75b6&style=flat" alt="sirsimon162" /> </p>
 
@@ -6,6 +6,8 @@
 
 <p align="left">
 - 📫 Mail me at: anmolpattnayak2016@gmail.com
+</p>
+<p>
 - 👨‍💻 My Portfolio: https://anmolpattnayak.vercel.app/
 </p>
 
