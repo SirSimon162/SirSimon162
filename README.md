@@ -11,11 +11,6 @@
 - 👨‍💻 My Portfolio: https://anmolpattnayak.vercel.app/
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_sirsimon_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sirsimon_" height="30" width="40" /></a>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sirsimon162&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsimon162&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
