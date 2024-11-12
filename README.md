@@ -8,7 +8,7 @@
 - 📫 Mail me at: anmolpattnayak2016@gmail.com
 </p>
 <p>
-- 👨‍💻 My Portfolio: https://anmolpattnayak.vercel.app/
+- 👨‍💻 My Portfolio: https://anmolpattnayak.tech/
 </p>
 
 # 📊 GitHub Stats:
