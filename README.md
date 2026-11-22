@@ -3,10 +3,7 @@
 
 Hi, I'm [Anmol](https://anmolpattnayak.vercel.app/) 👋
 
-![age](https://img.shields.io/badge/age-23-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-bhubaneswar-3c9)
-
+![living](https://img.shields.io/badge/living-India-3c9)
 [![Follow on X](https://img.shields.io/badge/Follow-%40_SirSimon_-1DA1F2?logo=x&logoColor=white)](https://x.com/_SirSimon_)
 
 <p align="left">
